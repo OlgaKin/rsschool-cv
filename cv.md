@@ -1,7 +1,7 @@
 * * *
 # Kinevich Olga  
  * * *
-1. **Number tel.:** +375298954153
+1. **Number tel.:** +375298954153, **email-** ol.freelancer@tut.by
 1. **Career Summary:** Stress-resistant, client-oriented, with planning skills and the ability to learn new things. The main priority and aspiration at the moment is to get the necessary skills and experience for web development. The goal is to be involved in the development of things that will make people's lives better.
 1. **Skills:** basics HTML, CSS, Markdown.
 1. **Sample code:** in process
