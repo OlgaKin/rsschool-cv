@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    margin:auto;
+}
+.marker {
+    width: max-content;
+    margin:auto;
+}
+li {
+    text-align: left;
+}
+.my-img { 
+    width: 20%; height: 15%;
+    border-radius: 10%; 
+    
+}
+.logo {
+    width: 40%; height: 40%;  
+}
+html {
+    background-color: rosybrown;
+}
+h1 {
+    font: italic bold 40px Arial, sans-serif;
+}
+.heading {
+    font: italic bold 24px Arial, sans-serif;
+}
+.git {
+    margin-left: 10%;
+}
+.footer {
+    margin-top: 10%;
+    display: flex;
+    justify-content: space-between;
+}
